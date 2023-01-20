@@ -13,7 +13,15 @@
   },
   "permissions": [
     "webRequest",
-    "webRequestBlocking",
-    "https://*/*.pdf"
-  ]
+    "webRequestBlocking"
+  ],
+  "host_permissions": [
+    "*://*/*.pdf"
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{5a221410-3c01-475e-8b15-d1d87fe8f81f}",
+      "strict_min_version": "109.0"
+    }
+  }
 }
