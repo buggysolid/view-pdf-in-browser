@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "InlinePDF",
+  "version": "1.0",
+  "description": "Forces PDFs to be viewed inline in your browser.",
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+  "background": {
+    "scripts": [
+      "inline.js"
+    ]
+  },
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "https://*/*.pdf"
+  ]
+}
