@@ -2,7 +2,7 @@
 
 A browser extension to force PDFs to be viewed inline using your browser instead of downloading them to your file system.
 
-Available for Firefox here: https://addons.mozilla.org/firefox/addon/inlinepdf/
+Available for Firefox here: https://addons.mozilla.org/en-US/firefox/addon/viewpdfinbrowser/
 
 # Example
 
