@@ -4,6 +4,12 @@ A browser extension to force PDFs to be viewed inline using your browser instead
 
 Available for Firefox here: https://addons.mozilla.org/en-US/firefox/addon/viewpdfinbrowser/
 
+# Setup
+
+1. After installing the extension right click it and select "Manage" extension. 
+2. Click on the permissions tab. 
+3. Click on the toggle button for the "Access your data for all websites" option.
+
 # Example
 
 Disable the extension.
