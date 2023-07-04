@@ -14,15 +14,14 @@ https://ciaran.dev/2022/06/30/why-do-some-pdfs-download-and-others-are-viewable-
 2. Click on the permissions tab. 
 3. Click on the toggle button for the "Access your data for all websites" option.
 
-# Example
+# Test
 
-Disable the extension.
-
-Open https://www.researchgate.net/profile/M-Vinay-Kumar/post/Can-anyone-suggest-me-case-study-of-ground-improvement-through-vacuum-consolidation/attachment/5c4e868e3843b0544e62b27d/AS%3A719904953094144%401548650124561/download/Ground_Improvement_Case_Histories_hANSBO.pdf
-
-The PDF will download to your file system.
-
-Enable the extension and reload the same link above. It will now open inline in your browser's built-in PDF viewer.
+1. Disable the extension.
+2. Open https://www.researchgate.net/profile/M-Vinay-Kumar/post/Can-anyone-suggest-me-case-study-of-ground-improvement-through-vacuum-consolidation/attachment/5c4e868e3843b0544e62b27d/AS%3A719904953094144%401548650124561/download/Ground_Improvement_Case_Histories_hANSBO.pdf
+3. It will download to your device.
+4. Enable the extension.
+5. Open https://www.researchgate.net/profile/M-Vinay-Kumar/post/Can-anyone-suggest-me-case-study-of-ground-improvement-through-vacuum-consolidation/attachment/5c4e868e3843b0544e62b27d/AS%3A719904953094144%401548650124561/download/Ground_Improvement_Case_Histories_hANSBO.pdf
+6. It will open in your browsers built-in PDF viewer.
 
 # Permissions
 
