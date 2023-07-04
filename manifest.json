@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "InlinePDF",
-  "version": "1.0",
-  "description": "Forces PDFs to be viewed inline in your browser.",
+  "name": "ViewPDFInBrowser",
+  "version": "2.0",
+  "description": "View PDFs in your browsers built-in PDF viewer.",
   "icons": {
     "48": "icons/border-48.png"
   },
