@@ -27,6 +27,6 @@ function ChangeContentDispositionHeaderToInline(e) {
 
 browser.webRequest.onHeadersReceived.addListener(
     ChangeContentDispositionHeaderToInline,
-    {urls: ["*://*/*.pdf"]},
+    {urls: ["*://*/*.pdf*"]},
     ["blocking", "responseHeaders"]
 );
